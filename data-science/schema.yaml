@@ -1,0 +1,8 @@
+product: ELEMENTS
+repos:
+- repo: vigneshpalanivelr/PythonMaterials
+  ref: main
+  path: PythonMaterials
+- repo: vigneshpalanivelr/iNeuronFlaskChallenge
+  ref: main
+  path: iNeuronFlaskChallenge
