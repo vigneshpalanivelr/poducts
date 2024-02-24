@@ -1,4 +1,4 @@
-product: ELEMENTS
+product: DATA_SCIENCE
 repos:
 - repo: vigneshpalanivelr/PythonMaterials
   ref: main
