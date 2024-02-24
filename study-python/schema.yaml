@@ -1,0 +1,5 @@
+product: STUDY_PYTHON
+repos:
+- repo: vigneshpalanivelr/PythonMaterials
+  ref: main
+  path: PythonMaterials
